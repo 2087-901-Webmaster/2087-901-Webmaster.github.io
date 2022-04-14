@@ -4,6 +4,10 @@ header h1 {
     margin-top: 0;
 }
 
+.topSection {
+    margin-top: 3vh;
+}
+
 body {
     margin-top: 3=2vh;
     background-color: #E9C5B8;
@@ -12,6 +16,14 @@ body {
 header p {
     text-align: center;
     margin-bottom: 0;
+}
+
+.card {
+    width: 100%;
+}
+
+.timelineSec {
+    margin-top: 14rem;
 }
 
 .hexa {
